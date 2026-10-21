@@ -65,4 +65,3 @@ For questions, suggestions, or collaboration, please contact:
 - **Susheela Ganesan**
 - **GitHub:** [Koori-ai](https://github.com/Koori-ai)
 
-Happy Learning! 🌟

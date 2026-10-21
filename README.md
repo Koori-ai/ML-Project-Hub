@@ -27,6 +27,10 @@ Welcome to the ML Project Hub! This repository is a collection of diverse Machin
 - **[Project6_VirtualArtGallery_Chatbot](Project6_VirtualArtGallery_Chatbot/)**  
   A conversational chatbot built using natural language processing (NLP) techniques to guide users through a virtual art gallery.
 
+- **[Project8_Generative_AI](./Project8_Generative_AI/)**
+  A collection of projects demonstrating dialogue summarization with prompt engineering and fine-tuning the FLAN-T5 model for performance.
+
+
 ---
 
 ## 🚀 Getting Started

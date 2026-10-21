@@ -63,7 +63,6 @@ Feel free to fork the repository, submit issues, and send pull requests. Contrib
 For questions, suggestions, or collaboration, please contact:
 
 - **Susheela Ganesan**
-- **Email:** [susheelag888@gmail.com](mailto:susheelag888@gmail.com)
 - **GitHub:** [Koori-ai](https://github.com/Koori-ai)
 
 Happy Learning! 🌟
